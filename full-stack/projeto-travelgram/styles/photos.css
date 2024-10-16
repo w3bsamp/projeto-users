@@ -1,0 +1,12 @@
+#photos{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 24px;
+    padding-block: 24px;
+}
+
+#photos img{
+    width: 286px;
+    height: 286px;
+    object-fit: cover;
+}
